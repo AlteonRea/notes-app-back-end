@@ -1,0 +1,4 @@
+node_modules
+notes-app-backend.pem
+.env
+.prod.env
