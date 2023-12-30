@@ -10,14 +10,5 @@
         "ecmaVersion": "latest"
     },
     "rules": {
-        "no-console": "off",
-        "no-unused-vars": "off",
-        "linebreak-style": "off",
-        "quotes": "off",
-        "prefer-destructuring": "off",
-        "arrow-body-style": "off",
-        "no-underscore-dangle" : "off",
-        "no-shadow": "off",
-        "camelcase": "off"
     }
 }
